@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="Contact The Pet Shop for questions, pet care information, products, and customer inquiries.">
+
+    <title>The Pet Shop - Contact</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Contact The Pet Shop</h1>
+        <p>We are happy to answer your pet-related questions.</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="index.html#pets">Our Pets</a>
+        <a href="index.html#supplies">Pet Supplies</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <main>
+
+        <section class="contact-box">
+
+            <h2>Get in Touch</h2>
+
+            <p>
+                Please complete the form below if you have any questions
+                about our pets, products, or services.
+            </p>
+
+            <form>
+
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name">
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email">
+
+                <label for="pet">Pet Type:</label>
+
+                <select id="pet" name="pet">
+                    <option value="dog">Dog</option>
+                    <option value="cat">Cat</option>
+                    <option value="rabbit">Rabbit</option>
+                    <option value="hamster">Hamster</option>
+                    <option value="other">Other</option>
+                </select>
+
+                <label for="message">Message:</label>
+
+                <textarea id="message" name="message" rows="6"></textarea>
+
+                <button type="submit">Send Message</button>
+
+            </form>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 The Pet Shop. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
