@@ -1,15 +1,25 @@
 # HTML and CSS Projects
 
-This repository contains the HTML and CSS projects I have completed during my web development course.
+## About This Repository
 
-## Projects
+This repository contains the HTML and CSS projects I completed during my web development course. These projects helped me learn how to build webpages, organize website content, apply styling, and create simple interactive effects.
 
-- **Creating CSS Effects:** Practiced custom fonts, hover effects, and CSS transformations.
-- **Simple Recipes:** Created a recipe website using HTML and CSS.
-- **The Pet Shop Website:** Built website pages for a pet shop, including homepage and contact page.
-- **One-Page Website:** Created a single-page website using HTML and CSS.
-- **Academy Cinemas:** Practiced building a cinema website using Bootstrap and responsive layouts.
-- **Portfolio Website:** Created a personal portfolio website to showcase my skills and projects.
+## Completed Projects
+
+### 1. Creating CSS Effects
+This project demonstrates CSS styling and hover effects. I used CSS transformations to make images grow and rotate when users interact with them. I also worked with custom fonts and page styling.
+
+### 2. Simple Recipes
+This project focuses on creating a recipe webpage using HTML and CSS. It helped me practice organizing content, displaying recipe information, and styling a webpage for better readability.
+
+### 3. The Pet Shop Website
+This project involves building a website for a pet shop. It includes webpage content, styling, images, and navigation elements. I also practiced creating separate pages and adding meta description tags.
+
+### 4. Academy Cinemas
+This project uses HTML, CSS, and Bootstrap to create a cinema website layout. It helped me practice responsive design, webpage sections, and footer layouts using a grid system.
+
+### 5. One-Page Website
+This project focuses on creating a single-page website using HTML and CSS. It helped me practice page structure, headings, links, and organizing information into sections.
 
 ## Technologies Used
 
@@ -18,7 +28,13 @@ This repository contains the HTML and CSS projects I have completed during my we
 - Bootstrap
 - Google Fonts
 - GitHub
+- GitHub Pages
+
+## What I Learned
+
+Through these projects, I gained practical experience in creating webpages, styling elements with CSS, using hover effects, organizing website content, working with responsive layouts, and publishing websites using GitHub Pages.
 
 ## Author
 
 Marlin
+
